@@ -16,6 +16,8 @@ The ALS model is trained using the small dataset, and different parameters such 
 The ALS model is trained using the selected parameters on the complete dataset. The training phase involves iterating over different ranks to find the model with the lowest Root Mean Square Error (RMSE). Tested to evaluate its performance in predicting movie ratings.
 #### Making Recommendations:
 Once the model is trained, Recommendations are generated for a new user by first adding their ratings to the dataset and then using the trained model to predict ratings for unrated movies.
+#### Scenario Analysis: 
+Finally, it provides scenario-based analysis such as generating recommendations for users based on different rating count thresholds and lists the top recommended movies for the new user.
 #### User Interface and Interaction:
 The project discusses how user interfaces and interactions can be designed to gather customer input effectively, enhancing the recommendation engine's performance.
 
