@@ -1,6 +1,9 @@
-## Movie Recommendation Service
+### Business Problem
+A new startup business, Ripe Pumpkins - a movie review-aggregation service, would like to implement Pumpkinmeter, a measurement of collaborative recommendation for millions of fans. The board of directors have been convinced by the recent success of recommendation model in streaming services and would like to know the potential in the Ripe Pumpkins' new initiative, Pumpkinmeter score.
 
-### Description:
+# Movie Recommendation Service
+
+### Project Description:
 This project implements a movie recommendation service using Apache Spark, specifically focusing on collaborative filtering. Collaborative filtering is a technique used in recommendation systems where predictions about a user's preferences or interests are made by collecting information from other users with similar tastes.
 
 #### The project involves the following key steps:
@@ -37,3 +40,7 @@ The project discusses how user interfaces and interactions can be designed to ga
 ### Conclusion:
 
 The movie recommendation service project provides a scalable and efficient solution for generating personalized movie recommendations based on user preferences. By leveraging collaborative filtering techniques and Apache Spark's distributed computing capabilities, the system can handle large-scale datasets and deliver accurate recommendations to users, enhancing their movie-watching experience.
+
+[Case Report.pdf](https://github.com/srimallipudi/-Movie-Recommendation-Service-using-Apache-Spark/files/14779327/Case.Report.pdf)
+
+[Presentation.pptx](https://github.com/srimallipudi/-Movie-Recommendation-Service-using-Apache-Spark/files/14779329/Presentation.pptx)
